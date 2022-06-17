@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
+.nav-link{
+    padding-left: 200px;
+    padding-right: 200px;
+    display:flex;
+    justify-content:space-between;
+    justify-content:space-between;
+}
+.home{
+    background-color: #bf599c;
+    color:white;
+    width: 180px;
+    height: 45px;
+    border-radius: 5px;
+}
+.art{
+    background-color: #96826f;
+    color: white;
+    width: 180px;
+    height: 45px;
+    border-radius: 5px;
+}
+.story{
+    background-color: #fec467;
+    color: white;
+    width: 180px;
+    height: 45px;
+    border-radius: 5px;
+}
+.animal{
+    background-color: #7c85e5;
+    color: white;
+    width: 180px;
+    height: 45px;
+    border-radius: 5px;
+}
+.nav_name{
+    text-align: center;
+font-family: poppins;
+text-transform: uppercase;
+}
+.text-image{
+background-color: #55b4bc;
+width: fit-content;
+height: fit-content;
+color: white;
+display: grid;
+grid-template-columns: 50rem 33rem;
+margin-top: -20px;
+}
+.text-button{
+    text-align: center;
+    margin: auto;
+}
+.image img{
+    width: 300px;
+}
+.paragraph p{
+    font-family: poppins;
+    font-size: 12px;
+    padding-left: 85px;
+}
+.title h1{
+    font-family: Old English Text;
+    font-size: 40px;
+}
+.btn button{
+background-color: #55b4bc;
+color: white;
+border: solid 1px #FFF;
+width: 240px;
+height: 30px;
+text-transform: uppercase;
+}
+.arts-image{
+    background-color: #bbbaba3d;
+    width: 250px;
+    height: 250px;
+    box-shadow: 0px 1px 4px grey;
+}
+.arts-image img{    
+ display: block;
+ margin: auto;
+width: 50%;
+}
+.arts-name{
+    background-color: lightseagreen;
+    width: 250px;
+    height: 60px;
+    color: white;
+    
+}
+.arts-name h3{
+    margin-top: 8px;
+    text-align: center;
+    font-family: poppins;
+}
+.image-text-container{
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 18rem 18rem 18rem;
+    margin-top: 30px;
+}
+.arts-footer{
+    background-color: #96a370;
+    color: white;
+    display: grid;
+    grid-template-columns: 37rem 46rem;
+    margin-top: 50px;
+
+}
+.arts-paragraph p{
+    font-family: poppins;
+    padding: 20px 90px 20px 0px;
+}
+.story-image img{    
+    display: block;
+    margin: auto;
+   width: 100%;   
+    height: 217px;
+
+  
+   }
+   .image-story{
+    background-color: white;
+    width: 280px;
+    height: fit-content;
+    box-shadow: 0px 1px 4px grey;
+   }
+   .image-story-container{
+   justify-content: center;
+    display: grid;
+    grid-template-columns: 20rem 20rem 18rem;
+    margin-top: 30px;
+    gap: 40px;
+   }
+   .story-title{
+    padding-left: 15px;
+   }
+   .story-title h3{
+    color: #55b4bc;
+   }
+   .subtitle p{
+    padding-left: 15px;
+    line-height: 1.5;
+    font-family: poppins;
+
+   }
+   .readmore button{
+
+    background-color: #55b4bc;
+color: black;
+border-radius: 5px;
+border: none;
+width: 100px;
+height: 30px;
+position: relative;
+margin: 15px;
+float: right;
+   }
+   .readmore button:hover{
+
+    background-color: #55b4bc;
+color: white;
+border-radius: 5px;
+border: none;
+width: 100px;
+height: 30px;
+position: relative;
+margin: 15px;
+float: right;
+   }
+   a{
+    text-decoration: none;
+    color: black;
+   }
+   a:hover{
+    color: white;
+   }
+.header-story{
+text-align: center;
+font-size: 25px;
+font-family: Brush script MT;
+color: #55b4bc;
+}
+.divider{
+    height: 5px;
+    background: #55b4bc;
+    width: 191px;
+    border: none;
+}
+.story-footer{
+    background-color: #fec568;
+    color: white;
+    display: grid;
+    grid-template-columns: 37rem 46rem;
+    margin-top: 50px;
+    clip-path: ellipse(96% 100% at 52.3% 100%);
+
+}
+.animal-story{
+    background-color: #7fc4fd;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+}
+.animal-footer{
+    background-color: #7c85e6;
+    color: white;
+    display: grid;
+    grid-template-columns: 48rem 8rem 8rem 8rem;
+    margin-top: 50px;
+    clip-path: ellipse(96% 100% at 52.3% 100%);
+
+}
+.home-link{
+margin-left: 500px;
+
+}
+.arts-paragraph h5{
+    font-family: poppins;
+}
+.story-text-image{
+    background-image: url('https://i.ytimg.com/vi/s_9KlXHmQmQ/maxresdefault.jpg');
+    width: 1300px;
+    height: 400px;
+    background-repeat: no-repeat;
+    margin-top: -20px;
+}
+.header-title h1{
+    color: #7fc4fd;
+    padding: 5px
+}
+.story-paragraph p{
+    padding: 10px;
+    line-height: 1.5;
+    font-family: poppins;
+    color: gray
+}
